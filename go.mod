@@ -1,4 +1,4 @@
-module coinStats
+module midnight.network/coinStats
 
 go 1.25.5
 
